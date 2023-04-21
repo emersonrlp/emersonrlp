@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=093342&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00CED1&height=120&section=header"/>
 
 <div align="center">
   <h1>Hi! I'm Émerson Rodrigo 👾!</h1>
@@ -13,8 +13,8 @@
         
 <div align="center">
  	<a href="https://github.com/Emerson-Rodrigo-Lima-Pereira">
- 	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Emerson-Rodrigo-Lima-Pereira&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
- 	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-Rodrigo-Lima-Pereira&layout=compact&langs_count=7&theme=prussian"/>
+ 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emerson-Rodrigo-Lima-Pereira&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+ 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-Rodrigo-Lima-Pereira&layout=compact&langs_count=7&theme=prussian"/>
 </div>
           
 <div style="display: inline_block"><br>
@@ -31,4 +31,4 @@
   <a href="https://www.instagram.com/emersonrodrigo25/?next=%2F" target="_blank"><img height="25" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=093342&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00CED1&height=120&section=footer"/>
