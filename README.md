@@ -10,10 +10,11 @@
 </div>
         <br />
         <br />
+        
 <div align="center">
- 	<a href="https://github.com/Emanuel-Antonio">
- 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emerson-Rodrigo-Lima-Pereira&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
- 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-Rodrigo-Lima-Pereira&layout=compact&langs_count=7&theme=prussian"/>
+ 	<a href="https://github.com/Emerson-Rodrigo-Lima-Pereira">
+ 	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Emerson-Rodrigo-Lima-Pereira&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+ 	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-Rodrigo-Lima-Pereira&layout=compact&langs_count=7&theme=prussian"/>
 </div>
           
 <div style="display: inline_block"><br>
