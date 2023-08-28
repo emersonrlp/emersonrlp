@@ -4,15 +4,15 @@
   <h1>Hi! I'm Émerson Rodrigo 👾!</h1>
     <div>Computer Engineering Student</div>
         <br />
-        <p align="center"> <img src="https://komarev.com/ghpvc/?username=Emerson-Rodrigo-Lima-Pereira&label=Profile%20views&color=0e75b6&style=flat" alt=Emerson-Rodrigo-Lima-Pereira" /> </p>
+        <p align="center"> <img src="https://komarev.com/ghpvc/?username=Emerson-Rodrigo-Lima-Pereira&label=Profile%20views&color=0e75b6&style=flat" alt=emersonrlp" /> </p>
         <a href="https://code.visualstudio.com/"><img height="25" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" /></a>
         <a href="https://www.jetbrains.com/idea/"><img height="25" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" /></a>     
 </div>
         <br />
 <div align="center">
- 	<a href="https://github.com/Emerson-Rodrigo-Lima-Pereira">
- 	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Emerson-Rodrigo-Lima-Pereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- 	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-Rodrigo-Lima-Pereira&layout=compact&langs_count=7&theme=tokyonight"/>
+ 	<a href="https://github.com/emersonrlp">
+ 	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=emersonrlp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ 	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonrlp&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
           
 <div style="display: inline_block"><br>
@@ -25,7 +25,7 @@
   ###
  
 <div align="center"> 
- 	<a href="https://github.com/Emerson-Rodrigo-Lima-Pereira"><img height="25" src="https://img.shields.io/github/stars/Emerson-Rodrigo-Lima-Pereira?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
+ 	<a href="https://github.com/emersonrlp"><img height="25" src="https://img.shields.io/github/stars/emersonrlp?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
   <a href="https://www.instagram.com/emersonrodrigo25/?next=%2F" target="_blank"><img height="25" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
