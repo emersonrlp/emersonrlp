@@ -11,8 +11,11 @@
         <br />
 <div align="center">
  	<a href="https://github.com/emersonrlp">
- 	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=emersonrlp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- 	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonrlp&layout=compact&langs_count=7&theme=tokyonight"/>
+ 	 <img width="43%" height="250px" src="https://github-readme-stats.vercel.app/api?username=emersonrlp&hide=border=true&include_all_commits=false&count_private=false)<br/>,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=006f72&text_color=ffffff&icon_color=33CEFF&hide_border=true/" />
+    </a>
+    <a href="https://github.com/Emanuel-Antonio">
+        <img width="54%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Antonio&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=006f72&text_color=ffffff&icon_color=33CEFF&hide_border=true/" />
+    </a>
 </div>
           
 <div style="display: inline_block"><br>
